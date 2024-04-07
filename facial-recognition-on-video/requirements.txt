@@ -1,0 +1,2 @@
+face_recognition
+# conda env: sentdex
