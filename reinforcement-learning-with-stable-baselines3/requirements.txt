@@ -1,0 +1,5 @@
+pytorch
+stable_baselines3
+gym[box2d]
+# conda env: stable_baselines
+# sudo apt install g++, gcc, swig
